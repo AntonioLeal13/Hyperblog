@@ -9,4 +9,7 @@ Un blog increible para el curso de GIt y Github de Platzi.
 *Trucos muy locos del profesor
 *Las personalidades múltiples de Freddy
 *Creado por el increíble platzi Team
+*incluye ejenmplos en diferentes SO.
+*Disponible para todas las edades.
+
 y como un amable recordatorio:**Este readme.md es un chiste**.
